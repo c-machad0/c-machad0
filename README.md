@@ -8,7 +8,7 @@ You can find some of my featured projects and activities on this profile, showca
 
 ![Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=c-machad0&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-machad0&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-machad0&langs_count=8)
 
 ## Main skills
 <div style="display: inline_block"><br/>
