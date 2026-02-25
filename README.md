@@ -1,9 +1,7 @@
 
 ### Hi! I'm Christian Machado 👋
 ##
-I hold a Technologist degree in Systems Analysis and Development from UNOPAR and have completed a professional development course in Statistics and Optimization at USP. My professional journey is rooted in public sector automation, with extensive experience in Python development for government procurement processes, contract management, and integrative data solutions.
-Throughout my career, I have developed practical and theoretical expertise in technologies such as Django, PostgreSQL, SQLite, Selenium, and Docker, with a special passion for automation, data analysis, and web scraping. I am always eager to take on new challenges, share knowledge, and contribute to innovative projects in public administration and quantitative trading.
-You can find some of my featured projects and activities on this profile, showcasing my commitment to creating efficient, scalable, and intelligent solutions for real-world problems.
+I am a Back-End Developer specialized in Python and Django, with experience in process automation, web scraping, data analysis, and REST API development for scalable web applications. I hold a Technologist degree in Systems Analysis and Development from UNOPAR and completed a professional course in Statistics and Optimization at USP, which strengthens my ability to design data-driven and backend-focused solutions. My professional background is rooted in public sector automation, where I have built Python-based systems for government procurement workflows, contract management, and integrative data solutions across different platforms. On a daily basis, I use Python, AI agents, and service integrations to automate tasks and optimize business processes, consistently reducing manual work and improving operational efficiency.
 
 
 ![Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=c-machad0&show_icons=true&theme=tokyonight)
